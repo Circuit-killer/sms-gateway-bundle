@@ -1,0 +1,3 @@
+effective_solutions_sms_gateway_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: EffectiveSolutionsSMSGatewayBundle:Default:index }
