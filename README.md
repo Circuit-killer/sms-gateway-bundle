@@ -1,4 +1,4 @@
-# Effective Solutions SMS Gateway Bundle For Symfony
+# Effective Solutions SMS Gateway Bundle For Symfony2
 
 Install and Configure Gammu Library using following documentations.
 
